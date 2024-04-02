@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740599786456",
+    "project_id": "sign-up-database-cab0c",
+    "storage_bucket": "sign-up-database-cab0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740599786456:android:11614312436cd88b2b20ad",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifBdsO6OccYvGGDboNqE3yk8OYWnOEqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
